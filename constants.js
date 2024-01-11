@@ -19,7 +19,8 @@ for (let i = 0; i < NavBar.length; i++) {
         <strong><a class='hidelink' href='index.html'>About</a> &nbsp; | &nbsp; </strong>
         <a class='hidelink' href='curriculum.html'>CV</a> &nbsp; | &nbsp;
 	    <a class='hidelink' href='publications.html'>Publications</a> &nbsp; | &nbsp;
-        <a class='hidelink' href='talks.html'>Talks</a>
+        <a class='hidelink' href='talks.html'>Talks</a> &nbsp; | &nbsp;
+        <a class='hidelink' href='teaching.html'>Teaching</a>
       </div>
     </div>
     `;
