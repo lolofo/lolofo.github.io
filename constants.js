@@ -66,6 +66,17 @@ for (let i = 0; i < jfd.length; i++) {
     jfd[i].innerHTML = "<a class='hidelink' href='http://dupuy.perso.math.cnrs.fr/index.html'>Jean-François Dupuy</a>";
 }
 
+let pablopiant = document.getElementsByName("pabpian")
+for (let i = 0; i < pablopiant.length; i++) {
+    pablopiant[i].innerHTML = "<a class='hidelink' href='https://sites.google.com/mila.quebec/pablo-piantanida/home'>Pablo Piantanida</a>";
+}
+
+let ills = document.getElementsByName("ills")
+for (let i = 0; i < ills.length; i++) {
+    ills[i].innerHTML = "<a class='hidelink' href='https://www.centralesupelec.fr/fr/ills-international-laboratory-learning-systems'>ILLS</a>";
+}
+
+
 
 let Insa = document.getElementsByName("Insa")
 for (let i = 0; i < Insa.length; i++) {
